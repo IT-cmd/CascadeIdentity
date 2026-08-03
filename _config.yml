@@ -2,7 +2,7 @@
 title: Cascade Identity
 description: "Identity and Access Management consulting for organizations that need to secure their digital identities."
 url: "https://it-cmd.github.io"  # change later
-baseurl: ""
+baseurl: "/CascadeIdentity" # Change after getting a custom domain name
 
 # Author / company info
 author:
