@@ -3,8 +3,6 @@ title: "Services"
 layout: "single"
 ---
 
-# Services
-
 ## What I Do
 
 ### IAM Advisory
