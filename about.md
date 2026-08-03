@@ -3,8 +3,6 @@ title: "About"
 layout: "single"
 ---
 
-# About
-
 ## Daniel Roberts
 
 I'm an identity and access management consultant based in Vancouver, 
