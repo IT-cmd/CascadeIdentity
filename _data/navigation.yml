@@ -1,0 +1,12 @@
+# Main links
+main:
+  - title: "Services"
+    url: /services/
+  - title: "Clients"
+    url: /clients/
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
