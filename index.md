@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: "home"
+layout: "splash"
 ---
 
 # Cascade Identity
