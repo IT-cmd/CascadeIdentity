@@ -1,0 +1,60 @@
+# Site settings
+title: Cascade Identity
+description: "Identity and Access Management consulting for organizations that need to secure their digital identities."
+url: "https://it-cmd.github.io"  # change later
+baseurl: ""
+
+# Author / company info
+author:
+  name: "Daniel Robrts"
+  location: "Vancouver, BC, Canada"
+
+# Theme
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# Minimal Mistakes theme settings
+minimal_mistakes_skin: "default"
+
+# Site-wide footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/danielrobertsit"
+
+# Navigation
+main:
+  - title: "Services"
+    url: /services/
+  - title: "Clients"
+    url: /clients/
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
+# Collections for project case studies
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "single"
+      classes: "wide"
