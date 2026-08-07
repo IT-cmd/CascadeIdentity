@@ -23,10 +23,6 @@ your organization's identity maturity and business goals.
 Role mining, access reviews, separation of duties (SoD) policies, and
 compliance-aligned access certification programs.
 
-### Federation & SSO
-SAML, OIDC, and OAuth 2.0 implementation across enterprise applications
-and SaaS integrations.
-
 ### Lifecycle Management
 Joiner/Mover/Leaver automation, SCIM provisioning, and self-service
 access workflows.
