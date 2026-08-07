@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: "single"
+permalink: /about/
 ---
 
 ## Daniel Roberts
