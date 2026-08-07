@@ -1,6 +1,7 @@
 ---
 title: "Services"
 layout: "single"
+permalink: /services/
 ---
 
 ## What I Do
