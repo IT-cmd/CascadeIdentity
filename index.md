@@ -13,4 +13,4 @@ governance, and implement IAM solutions that scale.
 **📍 Based in Vancouver, BC, Canada**
 
 [View Services](/services/){: .btn .btn--primary}
-[See My Work](/projects/){: .btn .btn--outline}
+# [See My Work](/projects/){: .btn .btn--outline}
