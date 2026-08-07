@@ -1,8 +1,8 @@
 # Site settings
 title: Cascade Identity
 description: "Identity and Access Management consulting for organizations that need to secure their digital identities."
-url: "https://it-cmd.github.io"  # change later
-baseurl: "/CascadeIdentity" # Change after getting a custom domain name
+url: "https://cascadeidentity.com"
+baseurl: ""
 
 # Author / company info
 author:
