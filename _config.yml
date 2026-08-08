@@ -3,7 +3,9 @@ title: Cascade Identity
 description: "Identity and Access Management consulting for organizations that need to secure their digital identities."
 url: "https://cascadeidentity.com"
 baseurl: ""
-
+atom_feed:
+  hide: true
+  
 # Author / company info
 author:
   name: "Daniel Robrts"
